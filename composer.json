@@ -1,6 +1,6 @@
 {
     "name": "prakort/laravel-wellness",
-    "description": "This is my package laravel-wellness",
+    "description": "Laravel Wellness monitors the application services",
     "keywords": [
         "prakort",
         "laravel",
