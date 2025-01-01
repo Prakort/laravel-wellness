@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace prakort\LaravelWellness\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelWellnessCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-wellness';
 
     public $description = 'My command';
 
